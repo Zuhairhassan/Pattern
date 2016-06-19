@@ -7,6 +7,7 @@ public class circle implements Shape{
 	System.out.println("it is circle");
 	/////////
 	/////////
+	/////
 	}
 
 }
